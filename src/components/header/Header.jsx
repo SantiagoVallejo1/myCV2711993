@@ -1,6 +1,6 @@
 import React from 'react'
 import "./header.css"
-import fotopersonal from "./Imagen-1 c.jpg";
+import fotopersonal from "./imgCV.jpeg";
 import SmartphoneIcon from '@mui/icons-material/Smartphone';
 import LocationOnIcon from '@mui/icons-material/LocationOn';
 import EmailIcon from '@mui/icons-material/Email';
@@ -15,16 +15,16 @@ export default function Header() {
           <img src={fotopersonal} alt="foto-personal" className={"headerPhotoImg"}/>
         </div>
         <div className="headerNombres">
-          <h1>EDISON STIVEN CHAMORRO</h1>
+          <h1>Santiago Vallejo Rodriguez</h1>
           <p>Tecnologo en analisis y desarrolo de software</p>
           <p>Desarrollador Web FullStack</p>
         </div>
         <div className="headerContacto">
           <ul className='contactList'>
-              <li className='contactListItem'><p><SmartphoneIcon/></p>    <p>(+57) 321 6325068</p></li>           
+              <li className='contactListItem'><p><SmartphoneIcon/></p>    <p>(+57) 3006861582</p></li>           
               <li className='contactListItem'><p><LocationOnIcon/></p>    <p>Pereira / Risaralda - Colombia</p></li>
-              <li className='contactListItem'><p><EmailIcon/></p> <p>edischamorro@misena.edu.co</p></li>  
-              <li className='contactListItem'><p><AlternateEmailIcon/></p> <p>edison2004melo@gmail.com</p></li>            
+              <li className='contactListItem'><p><EmailIcon/></p> <p>omasvallejo@misena.edu.co</p></li>  
+              <li className='contactListItem'><p><AlternateEmailIcon/></p> <p>santtyvallejo6@gmail.com</p></li>            
           </ul>
         </div>       
     </div>

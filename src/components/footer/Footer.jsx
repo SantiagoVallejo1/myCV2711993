@@ -11,7 +11,7 @@ export default function Footer() {
   return (
     <div className='footer'>
         <ul className='ulFooter'>
-           <li className='contactListItemFooter'><a href="https://github.com/DavidRobledo24"><p><GitHubIcon/></p></a></li>
+            <li className='contactListItemFooter'><a href="https://github.com/SantiagoVallejo1"><p><GitHubIcon/></p></a></li>
             <li className='contactListItemFooter'><a href=""><p><LinkedInIcon/></p></a></li>
             <li className='contactListItemFooter'><a href=""><p><FacebookIcon/></p></a></li>
         </ul>
