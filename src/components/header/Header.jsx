@@ -17,7 +17,7 @@ export default function Header() {
         <div className="headerNombres">
           <h1>Santiago Vallejo Rodriguez</h1>
           <p>Tecnologo en analisis y desarrolo de software</p>
-          <p>Desarrollador Web FullStack</p>
+          <p>Desarrollador web</p>
         </div>
         <div className="headerContacto">
           <ul className='contactList'>

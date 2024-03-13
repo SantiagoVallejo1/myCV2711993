@@ -12,8 +12,8 @@ export default function Footer() {
     <div className='footer'>
         <ul className='ulFooter'>
             <li className='contactListItemFooter'><a href="https://github.com/SantiagoVallejo1"><p><GitHubIcon/></p></a></li>
-            <li className='contactListItemFooter'><a href=""><p><LinkedInIcon/></p></a></li>
-            <li className='contactListItemFooter'><a href=""><p><FacebookIcon/></p></a></li>
+            <li className='contactListItemFooter'><a href="https://co.linkedin.com/in/santiago-vallejo-7a4611263"><p><LinkedInIcon/></p></a></li>
+            <li className='contactListItemFooter'><a href="https://www.facebook.com/santiago.vallejo.77312?mibextid=JRoKGi"><p><FacebookIcon/></p></a></li>
         </ul>
 
     </div>
